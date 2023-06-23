@@ -1,0 +1,82 @@
+@media screen and (max-width: 1024px) { 
+ 
+}
+@media screen and (max-width: 991px) { 
+
+    .col-sm.Downloadapp {
+        font-size: 15px;
+    }
+    a.nav-link {
+        width: 64%;
+        position: absolute;
+        right: -13%;
+        top: -68px;
+        margin-right: 73px;
+    }
+    button.btn.btn-primary {
+        text-align: right;
+        margin-left: 133px;
+        /* top: -3px; */
+        /* top: -6%; */
+    }
+    .col-sm.homee {
+        margin-right: 10px;
+        right: -83px;
+    }
+        a.visibility-cart.transition.is-open {
+            margin-top: -3%;
+        }
+        #count {
+         width: 15%;
+         display: flex;
+         justify-content: space-between;
+        align-items: center;
+         margin-left: 255px;
+         margin-left: 23%;
+                }
+        div#zeze {
+        margin-top: 28px;
+        margin-left: 23%;
+        }
+        
+        .col-md-6.banner-bottom-grid-right2-grid1 {
+         margin-bottom: 11%;
+         }
+        div#footerwrap {
+            margin-top: -24%;
+        }
+        .wrapper {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 15px;
+        margin: 30%;
+        padding: 0px 20px;
+        margin-top: -52%;
+        width: 61%;
+        }
+        
+}
+@media screen and (max-width: 767px) { 
+ 
+
+}
+
+@media screen and (max-width: 480px) { 
+	
+	
+}
+ 
+
+@media screen and (min-width: 1024px) { 
+	
+}
+@media screen and (min-width : 768px)  and (max-width : 1024px) {
+	 
+}
+@media only screen   and (max-width: 1200px) { 
+	 
+}
+@media only screen   and (min-width: 1900px) { 
+
+ 
+}
